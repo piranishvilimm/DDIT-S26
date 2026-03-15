@@ -33,6 +33,8 @@ Use all three. They answer different questions.
 - How replaceable are they?
 - Force rating: Low / Medium / High
 - Strategic implication:
+While open banking and APIs reduce some reliance on incumbent banks, fintech firms cannot completely replace core banking infrastructure suppliers:Opening accounts still needs a licensed bank partner.Real‑time settlement and compliance require banking rails.
+Suppliers like cloud and KYC providers are replaceable, but bank infrastructure remains hard to substitute without licensing.
 
 ## Threat of substitutes
 - What alternatives solve the same job?
